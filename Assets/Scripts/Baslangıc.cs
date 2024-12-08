@@ -16,6 +16,10 @@ public class Baslangýc : MonoBehaviour
     {
         SceneManager.LoadSceneAsync(2);
     }
+    public void Geri()
+    {
+        SceneManager.LoadSceneAsync(0);
+    }
     public void Quit()
     {
         Application.Quit();
