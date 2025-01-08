@@ -6,15 +6,72 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/AnaMen\xFC.unity"
+    path: Assets/Scenes/Intro.unity
+    guid: 54eb9073adafa5c40b4d387d47db09e7
+  - enabled: 1
+    path: Assets/Scenes/AnaMenu.unity
     guid: 6f959cb6ad0c06747a4b90d498d59d89
   - enabled: 1
-    path: Assets/Scenes/Ayarlar.unity
-    guid: 1156d98b5582f4d45a59b5ecc1ec31c4
+    path: Assets/Scenes/Settings.unity
+    guid: f28ab751e6d3e5c469c336d5caa0599d
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: 8682e95cd319a224da282304af0b3c30
   - enabled: 1
-    path: Assets/Scenes/OyunSahnesi.unity
+    path: Assets/Scenes/Oyun Sahnesi 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 2.unity
+    guid: 3ee8428a65945ff4b86022f341d120f4
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 3.unity
+    guid: 7b020c139cc4ef2449d7fe808f4b6c1c
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 4.unity
+    guid: f4bab56680e13924eaed453e90a1bf1c
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 5.unity
+    guid: 975470d0a6db0204fb2ffc19b7f6341b
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 6.unity
+    guid: 4a0ba28b0430bff4daf258375d405841
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 5-2.unity
+    guid: 5e491d629753b444a959e25f3dc5a7cb
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 7.unity
+    guid: bfdaa9e536eb48e47898213d3b804a10
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 8.unity
+    guid: 2d1f5108c013dba43894f5c97eeaa6a2
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 9.unity
+    guid: bf4d4a4966172ee469513984d3050355
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 10.unity
+    guid: b207aacf801f23b469ef3ed358c388f9
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 11.unity
+    guid: c60184ec9079e6f4bbd2a11c9925908d
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 12.unity
+    guid: 3b946d99742cda04ebe487e669c5ed9f
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 13.unity
+    guid: 8ed6cafb7095621468aab81d8238ecc0
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 14.unity
+    guid: 68335de0aae05864589308b05e4691fd
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 15.unity
+    guid: 3eee9a0948f3d0645adf8416c8b1383c
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 16.unity
+    guid: 42d697f77585ac241b52b039a9508e42
+  - enabled: 1
+    path: Assets/Scenes/Oyun Sahnesi 17.unity
+    guid: af5289c1fdddc5f4abe334159fd0854c
+  - enabled: 1
+    path: Assets/Scenes/OyunBitti.unity
+    guid: 7a39dfd77248ca64fb6ff19e562336a4
   m_configObjects: {}

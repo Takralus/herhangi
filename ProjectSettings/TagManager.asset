@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Audio
+  - enemyeasy
+  - basicradar
+  - playerattackrange
+  - enemyhard
+  - enemyranger
+  - bow
+  - arrow
+  - ground
+  - arrowtip
   layers:
   - Default
   - TransparentFX

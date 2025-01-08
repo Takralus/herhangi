@@ -1,0 +1,3233 @@
+fileFormatVersion: 2
+guid: b79fdc1ee5aacec4583f433cdde6a165
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 458
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c7b823effa58478d9c41d0cd9c2c5
+      internalID: 599112455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204f4488e0cd224eb4109e73167e34c
+      internalID: 124223531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9284b3e1a3cb71642a21bff90631e787
+      internalID: -1837620179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad25127194a1f04da75642e7ece8a51
+      internalID: -404538761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 458
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee78f3e82ed63724e888a354641b6bdc
+      internalID: 1950448804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8905bc5ba3f31a42a23045989048734
+      internalID: 311898189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6e74cc3bd30f43891a0f17e10aca5
+      internalID: -1693062056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed2a86cf230db408ee649437bac9a6
+      internalID: -1345853309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b25915e23fdca48afc4ff32f23bd87
+      internalID: -1564718922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 458
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f536de3c6e63647b57ff9bbe48f59b
+      internalID: -1600317338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db8e1de119a27b48816c44c839bf079
+      internalID: -131148611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff521d5a361c14eada5c034951056d
+      internalID: 1287131657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37717eba8e5a3e74e830e8b013d92f95
+      internalID: -1717300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c1f74166105e34886376df57bad17a
+      internalID: -147303818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab4653e72bf0d4a97f41ff0c16dbf6
+      internalID: 576907449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897de6f8cde3e048bc260a16736bc4e
+      internalID: -826166765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf78e8213057e45a7198997bc47120
+      internalID: 182766241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328cf2cdc5aec8478507b1ea3805bc7
+      internalID: -423256533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f5f94206bacd4194d56d8a64c0cb7
+      internalID: 258052929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160accbe14f1794cac62564d42d71fa
+      internalID: -440679253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af151dd9833cb344cb040e57ca5a51b9
+      internalID: 1441151498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178d6ee04c48ee42baf62d5e0077140
+      internalID: -1203014740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011d8ea6da105544a460f5afd3df579
+      internalID: -1538184744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 458
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beea605abf1ac14f979c087fe77734d
+      internalID: -522019663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87d67a2ae422b4fab0540a5f765b9f
+      internalID: 1376258703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f7f21b89c0ec4d9725e9fc0665212
+      internalID: 1264137879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061c9dc9d08c064ebaadd45f69c9607
+      internalID: 1685586319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 458
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b40557a918b88449ae527c98607daf
+      internalID: -813648253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 440
+        width: 172
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1ee5458fbcab34a8f216436557a885
+      internalID: 761082234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06bea3a0387df4cae0a8d4a61795ca
+      internalID: 852353697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 416
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b061781f2d7be4b890ac3d628cbbdb
+      internalID: 1019254389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d82c521036f0f479240988079a8ef6
+      internalID: -365176565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 416
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7083c54c57fd5446ab7feb5c8ba320a
+      internalID: -2076869688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 388
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa8f8b0a4c68a4880729812871a5d2
+      internalID: -2103041066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 430
+        width: 138
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327e53f8fa0f51469e06fe84c2922cb
+      internalID: -269372510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 388
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b21ade80812d4da2d261807acd38c
+      internalID: 13409918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 366
+        width: 186
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a3f2aac52f22c44b1e7757e15e81d2
+      internalID: 2097721753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 378
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8163a753977f74e9871ec3a5207c99
+      internalID: -168912181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 388
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9155ffd5de10343a4338aeb4f7c12c
+      internalID: -487734197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deac7c83fea0fe34086942451c35979b
+      internalID: -1292153065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798737f38607b7f47ab0041e39f9979f
+      internalID: 1091685075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf95d7562cfec54a8fbcc3f0c0a7cba
+      internalID: -1183089133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 346
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c4df60c4ddf04ca4b6e3e0984b25a
+      internalID: -248560680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab608aa4c84d644b7c177523135950
+      internalID: -1840034562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48117cddd81dfa545a11ef3fa23d5f56
+      internalID: 1873331690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20bebb8b0134c544a0c56cc21907396
+      internalID: 958576623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09bd7e2c89babe488f67511ed46b9ea
+      internalID: 1787610348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285fc759db1b05a469d497395924bfdf
+      internalID: 2097282844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a7009b0ce91c48acce3fee67ac06c
+      internalID: -49288623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 346
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0489759cc2a606d4d909d277b3f9de1f
+      internalID: 743301078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed77feea271f34db7eb429fe22e3f6
+      internalID: -718137431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44186c47019c7844cb510da10eb4b3a3
+      internalID: 1054795880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636852b30793694793fdf2b3251716c
+      internalID: 1926483247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144a01c4f47a95349936e67e54e0f8f1
+      internalID: 1238776290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2ce52ad9efc640bf1aaeabe35f4e7
+      internalID: -1484519855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d8b135f263d1446b0b18d988b19528
+      internalID: -1453719360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac73c50def500741aabbbf4507389fa
+      internalID: -831395155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_57
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696f65f2d36ca034784e63b89d286f33
+      internalID: 1285257625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 346
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585cd47a65a81da439b0656c10ebb092
+      internalID: -1342502951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 276
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0eb5f0820a36b4186d9f04294f241a
+      internalID: -432222511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 276
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eaa2e9f28bb214dae31ebb4154b7bf
+      internalID: -857003673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 276
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ff77138701f845a02f39fd51e2504
+      internalID: 1933460395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 276
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ec077a193c5f4ca6c2aabf461929f
+      internalID: -1915498269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed405b923e85a64da6c65cd4916eee7
+      internalID: 990156268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 276
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a849cc53d280459d91b75ce00f08a
+      internalID: -1192470943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_65
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 276
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f313e4bb951fe447807ee1f6c8961fe
+      internalID: 1827276194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_66
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 276
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c99917ee0c99c49bd9ef985b9dba6c
+      internalID: 696111715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3816bf63083f684bbd9abbe7e94e2bb
+      internalID: -221839959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_68
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 276
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39c2e5755bb6142a00931d9a24bb1b
+      internalID: -1605441397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 276
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec117bbb367ce459ab656765252858
+      internalID: -1492732341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdbd650f6c6d334caa377d4c1029b18
+      internalID: 1312284380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c075746f0f02640b7ed9d3f3e7e731
+      internalID: 915993053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f610f91255b94db6ad7dbbfa6774b
+      internalID: -1947896081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ffee9dbaaf5441b1eab221268b6e0
+      internalID: 920313652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec6dd5a95639841a0506eeec33e51c
+      internalID: -2034195874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_75
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7427a201a5aba4daf74957daa9d4d4
+      internalID: 2123753389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_76
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c515281140ed468ce9871c65e4498
+      internalID: 1078742959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaebe927c4cecb459389287bd44fe19
+      internalID: -743928048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af32a37ad8273384590efcb13ef94cc1
+      internalID: 1097768973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835edfe2806f59343820be304905d2d6
+      internalID: -1861888285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121aadf2a641aca429ec1ebc00a0bcf5
+      internalID: -1915663755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977d24146b90e734580d18a1379c4f29
+      internalID: 2034683449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 186
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514eed89d12d9c7499ff4f53ee40afcf
+      internalID: -1003199825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba0626b51ae264691be8d61eb6df9e
+      internalID: 335408904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 186
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f9d9706ee8414caf18e16140cea69
+      internalID: 93381730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 186
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412236daaab64744d9b9c84ec664950a
+      internalID: -1979394525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 186
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca2b1abd43bbe488bb028c93952f93
+      internalID: 721256731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_87
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 186
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c5c1b682a334469c999ed24df452a
+      internalID: 1207663858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_88
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 134
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da9ce83febb7b4e9f6216fc1dc866c
+      internalID: 2109056210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 166
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb79d8519847254c8fb68d8ddf4d550
+      internalID: -1612298013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 166
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2304d30a6f1de478b5e992b4c41145
+      internalID: 699479912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 166
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11a79728e3f6947bc84eb02687a0c8
+      internalID: 1649858812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb51315a3bbd8942b1e56d5f8d6cf15
+      internalID: 1149799358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 166
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8543def058c6efe4680610134e710de9
+      internalID: 347797047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 166
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dce92118294db43a4a937f9686582c
+      internalID: -1896434598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e05a2a7ecd6e49b68e0607363c0dc
+      internalID: 423353518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_96
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 116
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc4bd55aa716c478bed2abefb0b4a6
+      internalID: 1436301643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_97
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 116
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b98207aa19964459f2ff45330f08d8
+      internalID: -1175134816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_98
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291e75805b740b4ea943840d5db7ac9
+      internalID: -309046116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd6df6ca3c319d4ba41c8ba9d80f2d4
+      internalID: -1784619655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a27e7fd64640458708d527090852a
+      internalID: 567346269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_101
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 25
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f70c149e6adf034496492d53e1319ad
+      internalID: 1371733143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_102
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 69
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d9cbd1af055f4f94ea0bc1741c1e0
+      internalID: 2131894009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_103
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 84
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6349cb0255ea6947b3e985e1496c8a7
+      internalID: 1595781850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0312025dd6b2a5478517418e9142a01
+      internalID: 945220183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8cd8f78f3b664f9dbd7f5868c00b3
+      internalID: -682639224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_106
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029dbf9abef77614aba197711a28b170
+      internalID: 820908112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_107
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8528dc992b85ca4483e41d15800be4a
+      internalID: -2013210703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee46aab1dfed644bb67eaf3528bcc08
+      internalID: 582783620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b74f4b6f5f2ec4786582b04f0faead
+      internalID: -444237627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138aba10286957d4a8b9bad37057ffa7
+      internalID: 474215586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7725fb7a3df7543adb1fbd48b0bdda
+      internalID: 1275228010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff96bbec24f484d9eeeb2309992ed5
+      internalID: 1244097110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_113
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c3b9dbe0a8894c8c60ddcc0c100e6
+      internalID: 94548494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_114
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9718d56c1e25a7468a5b10b16817c0e
+      internalID: 266532447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_115
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86cd9e9c1bcf148a9b36b8d832077d
+      internalID: 1560601173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_116
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5168c56e79e4a849a5e692cc42d316e
+      internalID: -424350479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_117
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637332071321cb641be7ce611a846e6e
+      internalID: -1123728533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_118
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55536d1f86a0b3488e0c47d365c27b4
+      internalID: 443168411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_119
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d3d45601cbf454f83cf90935d9bea2
+      internalID: 932767889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782b9d9085def14db5a898c14f0bc41
+      internalID: 995626920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_121
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd37abdce40e3478b5b121755fba2c
+      internalID: -1553020940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e7f927eab4174a9e0a87a036dcb0d
+      internalID: 620065088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_123
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658aa002e8e2c7b4bbc65a0ededa1195
+      internalID: 1166790210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_124
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3399e8533d94564eb8210c733ec1aaf
+      internalID: -117717808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_125
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9162726a494e14290d288a8432730c
+      internalID: 624752142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf39d74b5d67444b5c692c925c2731
+      internalID: 1568264786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_127
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbe84fbab0d424fac6d80b0c892515
+      internalID: -53563017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 10
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb62d75a6fe90409568428dc681514
+      internalID: -2091044480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8748f9fb6e403d46b06045d6b2fc56f
+      internalID: -480587217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_130
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757070119a804a748a92c50cff1c7995
+      internalID: 1583194293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_131
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59ad5668a3567a4d848fbce5de22bbe
+      internalID: 573209311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_132
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936cad132087094f882cb0f100e808e
+      internalID: -1093763372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_133
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b5e7f01beadd41ae624bf4d2352fc
+      internalID: -159726339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_134
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 10
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046468c0d04658743b4369302bb74ead
+      internalID: -1549490784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_135
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a9ae38467bb204694b6917f0bec93d
+      internalID: 1710173979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 24
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7591e40a3e1a648967d517fa0c56c7
+      internalID: 1808992998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_137
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 24
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2d7d7be2628a4796aa9918d479315
+      internalID: 726834229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_138
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 24
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9c5604ae3c8843be1572c48a606f0
+      internalID: -1531856719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecArmor_139
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 24
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d75bb3f8b1f5204da3f2f827046706b
+      internalID: -845195819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites-AlecArmor_0: 599112455
+      Sprites-AlecArmor_1: 124223531
+      Sprites-AlecArmor_10: -131148611
+      Sprites-AlecArmor_100: 567346269
+      Sprites-AlecArmor_101: 1371733143
+      Sprites-AlecArmor_102: 2131894009
+      Sprites-AlecArmor_103: 1595781850
+      Sprites-AlecArmor_104: 945220183
+      Sprites-AlecArmor_105: -682639224
+      Sprites-AlecArmor_106: 820908112
+      Sprites-AlecArmor_107: -2013210703
+      Sprites-AlecArmor_108: 582783620
+      Sprites-AlecArmor_109: -444237627
+      Sprites-AlecArmor_11: 1287131657
+      Sprites-AlecArmor_110: 474215586
+      Sprites-AlecArmor_111: 1275228010
+      Sprites-AlecArmor_112: 1244097110
+      Sprites-AlecArmor_113: 94548494
+      Sprites-AlecArmor_114: 266532447
+      Sprites-AlecArmor_115: 1560601173
+      Sprites-AlecArmor_116: -424350479
+      Sprites-AlecArmor_117: -1123728533
+      Sprites-AlecArmor_118: 443168411
+      Sprites-AlecArmor_119: 932767889
+      Sprites-AlecArmor_12: -1717300952
+      Sprites-AlecArmor_120: 995626920
+      Sprites-AlecArmor_121: -1553020940
+      Sprites-AlecArmor_122: 620065088
+      Sprites-AlecArmor_123: 1166790210
+      Sprites-AlecArmor_124: -117717808
+      Sprites-AlecArmor_125: 624752142
+      Sprites-AlecArmor_126: 1568264786
+      Sprites-AlecArmor_127: -53563017
+      Sprites-AlecArmor_128: -2091044480
+      Sprites-AlecArmor_129: -480587217
+      Sprites-AlecArmor_13: -147303818
+      Sprites-AlecArmor_130: 1583194293
+      Sprites-AlecArmor_131: 573209311
+      Sprites-AlecArmor_132: -1093763372
+      Sprites-AlecArmor_133: -159726339
+      Sprites-AlecArmor_134: -1549490784
+      Sprites-AlecArmor_135: 1710173979
+      Sprites-AlecArmor_136: 1808992998
+      Sprites-AlecArmor_137: 726834229
+      Sprites-AlecArmor_138: -1531856719
+      Sprites-AlecArmor_139: -845195819
+      Sprites-AlecArmor_14: 576907449
+      Sprites-AlecArmor_15: -826166765
+      Sprites-AlecArmor_16: 182766241
+      Sprites-AlecArmor_17: -423256533
+      Sprites-AlecArmor_18: 258052929
+      Sprites-AlecArmor_19: -440679253
+      Sprites-AlecArmor_2: -1837620179
+      Sprites-AlecArmor_20: 1441151498
+      Sprites-AlecArmor_21: -1203014740
+      Sprites-AlecArmor_22: -1538184744
+      Sprites-AlecArmor_23: -522019663
+      Sprites-AlecArmor_24: 1376258703
+      Sprites-AlecArmor_25: 1264137879
+      Sprites-AlecArmor_26: 1685586319
+      Sprites-AlecArmor_27: -813648253
+      Sprites-AlecArmor_28: 761082234
+      Sprites-AlecArmor_29: 852353697
+      Sprites-AlecArmor_3: -404538761
+      Sprites-AlecArmor_30: 1019254389
+      Sprites-AlecArmor_31: -365176565
+      Sprites-AlecArmor_32: -2076869688
+      Sprites-AlecArmor_33: -2103041066
+      Sprites-AlecArmor_34: -269372510
+      Sprites-AlecArmor_35: 13409918
+      Sprites-AlecArmor_36: 2097721753
+      Sprites-AlecArmor_37: -168912181
+      Sprites-AlecArmor_38: -487734197
+      Sprites-AlecArmor_39: -1292153065
+      Sprites-AlecArmor_4: 1950448804
+      Sprites-AlecArmor_40: 1091685075
+      Sprites-AlecArmor_41: -1183089133
+      Sprites-AlecArmor_42: -248560680
+      Sprites-AlecArmor_43: -1840034562
+      Sprites-AlecArmor_44: 1873331690
+      Sprites-AlecArmor_45: 958576623
+      Sprites-AlecArmor_46: 1787610348
+      Sprites-AlecArmor_47: 2097282844
+      Sprites-AlecArmor_48: -49288623
+      Sprites-AlecArmor_49: 743301078
+      Sprites-AlecArmor_5: 311898189
+      Sprites-AlecArmor_50: -718137431
+      Sprites-AlecArmor_51: 1054795880
+      Sprites-AlecArmor_52: 1926483247
+      Sprites-AlecArmor_53: 1238776290
+      Sprites-AlecArmor_54: -1484519855
+      Sprites-AlecArmor_55: -1453719360
+      Sprites-AlecArmor_56: -831395155
+      Sprites-AlecArmor_57: 1285257625
+      Sprites-AlecArmor_58: -1342502951
+      Sprites-AlecArmor_59: -432222511
+      Sprites-AlecArmor_6: -1693062056
+      Sprites-AlecArmor_60: -857003673
+      Sprites-AlecArmor_61: 1933460395
+      Sprites-AlecArmor_62: -1915498269
+      Sprites-AlecArmor_63: 990156268
+      Sprites-AlecArmor_64: -1192470943
+      Sprites-AlecArmor_65: 1827276194
+      Sprites-AlecArmor_66: 696111715
+      Sprites-AlecArmor_67: -221839959
+      Sprites-AlecArmor_68: -1605441397
+      Sprites-AlecArmor_69: -1492732341
+      Sprites-AlecArmor_7: -1345853309
+      Sprites-AlecArmor_70: 1312284380
+      Sprites-AlecArmor_71: 915993053
+      Sprites-AlecArmor_72: -1947896081
+      Sprites-AlecArmor_73: 920313652
+      Sprites-AlecArmor_74: -2034195874
+      Sprites-AlecArmor_75: 2123753389
+      Sprites-AlecArmor_76: 1078742959
+      Sprites-AlecArmor_77: -743928048
+      Sprites-AlecArmor_78: 1097768973
+      Sprites-AlecArmor_79: -1861888285
+      Sprites-AlecArmor_8: -1564718922
+      Sprites-AlecArmor_80: -1915663755
+      Sprites-AlecArmor_81: 2034683449
+      Sprites-AlecArmor_82: -1003199825
+      Sprites-AlecArmor_83: 335408904
+      Sprites-AlecArmor_84: 93381730
+      Sprites-AlecArmor_85: -1979394525
+      Sprites-AlecArmor_86: 721256731
+      Sprites-AlecArmor_87: 1207663858
+      Sprites-AlecArmor_88: 2109056210
+      Sprites-AlecArmor_89: -1612298013
+      Sprites-AlecArmor_9: -1600317338
+      Sprites-AlecArmor_90: 699479912
+      Sprites-AlecArmor_91: 1649858812
+      Sprites-AlecArmor_92: 1149799358
+      Sprites-AlecArmor_93: 347797047
+      Sprites-AlecArmor_94: -1896434598
+      Sprites-AlecArmor_95: 423353518
+      Sprites-AlecArmor_96: 1436301643
+      Sprites-AlecArmor_97: -1175134816
+      Sprites-AlecArmor_98: -309046116
+      Sprites-AlecArmor_99: -1784619655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

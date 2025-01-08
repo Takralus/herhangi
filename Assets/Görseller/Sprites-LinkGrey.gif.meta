@@ -1,0 +1,4861 @@
+fileFormatVersion: 2
+guid: 4749a57d47695054a93b9ba115ff9bdb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db90353f9f27c3488a14aff9cdb88f5
+      internalID: -317945553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554be05b9049b7b4094f3af759b0ad9e
+      internalID: -1838123555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae359ba809846a44987b28f338130d38
+      internalID: 197640292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc22421b4918a4e907c1c5457c1936
+      internalID: 296424442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2d5dc16188574b90af8e0b210fc44
+      internalID: 727724069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee1b22975e51244ab52c9a81fa7340
+      internalID: -796990545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf5b9d0bca84a4c897a794fe722ed2
+      internalID: 564242013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37503a078a6e144b4278fd698d7596
+      internalID: -997758295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83904caab1f14ea40978f30ed1671e13
+      internalID: 1104283158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fd24963c483d41a641c98f0003df8
+      internalID: -52750380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887064ed2667ca64e915f9019306b9f3
+      internalID: 470918613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d515d8702bb1848a49724d30173127
+      internalID: 1794967633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e05b3ed5d7bd4bbbd446b24353d06
+      internalID: -2127991149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 582
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2dd4950d114946b147c6b96d9c9a8
+      internalID: -1672513197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fda818b4c744045b0a653dcee58b6c
+      internalID: -1295342237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 574
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf865f92449f0b4ba85448510521f67
+      internalID: 479758906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 574
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e794b4b0b0a364ab6a17b240b3cda9
+      internalID: -249278215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 574
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262804fbaeae5be439575a3ed224f37c
+      internalID: 1732969418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 574
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4851f76b7ad50e49a3ec3faf536bbae
+      internalID: -1412489853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 574
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5c45299f821747884c51c02a33c7a
+      internalID: -1274440221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 574
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4630df02e78c6643ac6ed21224b181a
+      internalID: 1293541509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043eb732e1d033544a9f7c7e716f2fe2
+      internalID: -519389459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71d428d3ec24c4788b6a52ae48835e
+      internalID: 808177503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb6801d4fffa0b48aa909fdf01f0184
+      internalID: 1526450182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 590
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5575fed08fdb970479b616e5bd90f5c0
+      internalID: -1042221631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5203b97f4a274b8dcc5d162c0a8ba
+      internalID: -2093041200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cee970e76ec4b4dba889081da31a1f
+      internalID: 1792403000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94962dabe051a104d8437c883de5e88c
+      internalID: -52085863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ce0a4345738a44ba0aea551e8c0b4
+      internalID: -1142628663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_29
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1554c279c76808e4d8cfd7754922af82
+      internalID: 1239670388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebd0cb7c730a04392f828349be5672
+      internalID: -1918162204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 584
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d22909363ec714fa30b81e4e7ce3e3
+      internalID: 1609676257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_32
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 520
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb311ba4615e92448e785f4628fc6f7
+      internalID: 16394426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c47308ed994c4d98ed8922baa8863
+      internalID: 946842282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ed0f73c995a44796222d3745e7db7
+      internalID: -1061779758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e11912aa534e584f9370253917de4e8
+      internalID: 1609039709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5caab60e2feef04dbac242146110504
+      internalID: -29054172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc6dc7a6a82c6b46a476cf2b4324db3
+      internalID: 1770386361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82490f5f6cbd8d046899486c7a6969cf
+      internalID: 915635095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42effef22102e748bb1e081c44f6962
+      internalID: 1033319860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49de1a472b705c469c79415131e2d7b
+      internalID: 107674916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697e65431e81fa42a48527c15914385
+      internalID: -1779337790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 540
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab48b9c50cd8ee942a0be660cebf4e4f
+      internalID: -369958300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cfe70c2278391488541af40ec515ce
+      internalID: -332899430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 540
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb48db541dd8214aa1f322369b78900
+      internalID: 328432310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 540
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd542377359baf34fa7c7a9457e9f6c6
+      internalID: -1678823207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 544
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1d1b4b25441445af60b12b837b022
+      internalID: -1737916172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 540
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639f63ca6642f6458b85815fa664fa6
+      internalID: -786008036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 542
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b813040f9be94ab61adf30ae55eb0
+      internalID: 399578461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 520
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb56fcdfd406a488092e2f41e9cfac
+      internalID: 560356399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 520
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490e5bf592290b42be71c45c2b24f52
+      internalID: -724709232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240033a9593c6642a8fc42fe056d9d8
+      internalID: 1873696218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_52
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 520
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c53d453bff1f0499a24bc41e117adc
+      internalID: 16922569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_53
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544cc06ededae041a194cddb28781a6
+      internalID: -774903593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 520
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21c7dde30e83d49abf2387e0bf414c
+      internalID: 1610864787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_55
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79324e0b78715f4ebba60ca0ddfca04
+      internalID: -998629087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_56
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 520
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb239cbfe66e994bb1296a94448479f
+      internalID: -1159918698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_57
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9965a97604d14b8030c1ba1c30dd3
+      internalID: -906727640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 522
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96fac7a2ee65c84f9097a03032a6dd1
+      internalID: 919893139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 522
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e96f0814a3a14a9d26adb08d58634
+      internalID: -1564535173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 522
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda5a8c4aa40cd54682a4a1cb7484785
+      internalID: 1134069308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e905ccbc35f54193599d94b2944f8
+      internalID: 2025523981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e03f34bf192b45ad2dd6e83754d93
+      internalID: 1213502990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111220787c8e68f4f895695b2ffc23d6
+      internalID: 1467168715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2560300b796542b265db8d2802ef0
+      internalID: -2011948053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d1cbfb2aa9c7f4695826d1ec5ce182
+      internalID: 1382247212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a726588c7ea243468300ac1f5ccbd66
+      internalID: 2076017384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 506
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb47e2bb7bd5e4a8fcb8a20d7a37a9
+      internalID: 1856284649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 500
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452dcbd80d734f4d8eecd3bd9f200c8
+      internalID: -1887567458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a0667ce8efcf4583f7002118d9880
+      internalID: 100110679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 500
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65efe512e878093498851aed30dd6845
+      internalID: -1403876922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ee872d5fd03f429f866969f8a1988
+      internalID: -978806922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_72
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac772e20a248294da300dbf6e39d9eb
+      internalID: 1978289022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594423bc50ef5834e9586476b34d8fa1
+      internalID: -914949143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_74
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714c006addedb84482ed91016d866fe
+      internalID: 740217457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_75
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc14ec66cb34a47b08b5102471d929
+      internalID: -1337695960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_76
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 500
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee36457bc96b84290623b6da167acb
+      internalID: -1389460028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_77
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 500
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a488d37a3d8544eb9a432ee56dafaf
+      internalID: -796296845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_78
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc59f332456d084c84524f40e94f9d2
+      internalID: 353760147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 430
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed95b8c2bfdc3943a4fbdab2e4f4001
+      internalID: 1829820695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 430
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33d2cbc9ead1a4583aa3fd04922e92
+      internalID: 2059136915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 430
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee3661dcce6ee4f8326ff2604a5fe8
+      internalID: 1363701787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 430
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace38618217d6d148b6ff5b481195046
+      internalID: 1361969040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 430
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719a977166fd0942a41671efba56271
+      internalID: 1057480447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 430
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c423e1e891b0a845ae8de4632fbefc6
+      internalID: -27870042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_85
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 430
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ad92243f78554baf5ba3553a3173c
+      internalID: 943513799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_86
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 430
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c6f7c71d46af48b96c8787a4416fa
+      internalID: 944621729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_87
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 430
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33392238999681a4395fcdc6cb070b8c
+      internalID: 502444381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 430
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8fb51a42e7e544908a2070e04cd0e
+      internalID: 166938148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_89
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 430
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be623e9218927e6488ec09cd7c06acaf
+      internalID: 1459561409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_90
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 430
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acebb57745a62947bc9a5d8e78f2877
+      internalID: -2060363519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_91
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 464
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b77a379cb8eee4f8292944232d2000
+      internalID: 189292188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_92
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 464
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec7789e47c89794f89d42a42b646b7d
+      internalID: 145420590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_93
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 464
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd89c080a2967e4bb1ce28bfb0169a3
+      internalID: -161161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_94
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 464
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ff85c9cf7d74488e12df6372abb09
+      internalID: -557249959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_95
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 470
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483787f7035cef4299fbc5ca25b0053
+      internalID: -1674418261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_96
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 430
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992115d970f1ca4f89530d5c24ddc4f
+      internalID: 1146583476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_97
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 424
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840a4894a6c46647b0f198431610a0a
+      internalID: 1941427662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_98
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 426
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b2a30878ff674aa341bbc42828ef7
+      internalID: 105444959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_99
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 426
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92fe4a9f6a2e04eb6916c431acd2db
+      internalID: 882813104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_100
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 440
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d164abcc3b9b44aad0ef796e24fda
+      internalID: 160391387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_101
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 440
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6e47299fb4cf46a3a688d00fd5aca
+      internalID: 704156065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 360
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d65ab78221e7734ab3c8bd58353a025
+      internalID: 513882363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_103
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 360
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125fe6bba2c4114b9517164cc67ea08
+      internalID: 721326105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 360
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2eb5198b2767646b8d2f13313f5b19
+      internalID: 655430830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 360
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8153a24cd32e442bc626466fb50551
+      internalID: 453503174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_106
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 360
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251733f6356c724e95a8718696212eb
+      internalID: 1926838173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_107
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 360
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af53dd85865aee45a0d5f54ce62e552
+      internalID: -1042650459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_108
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 360
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66558c2f43d28494f945930568b840c1
+      internalID: -1582264209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_109
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 360
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4065fc86ffc91244fa799c2e5f0071bb
+      internalID: -961964779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 360
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e5faf8a6ec8448904c061754cdb98
+      internalID: -2051910951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fbe2b454828ed44923d17aa259c269
+      internalID: -1395208920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b98a5b95ee6804580cfb364519d346
+      internalID: -268052074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_113
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 360
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993dcce72e1e9814288581b496e3f707
+      internalID: -2145098548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa9694069b5654e9d72e3ad597ba18
+      internalID: -1453054475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f28ad5d8ba0f24db71ac017b0536de
+      internalID: -923784861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_116
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d03ee92dfbeb4e99e626011da9008
+      internalID: -1953837954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 270
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ffc942eb69dc4d8e30ed641262838
+      internalID: -561157220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 270
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361613dc1141b0d46b8cce6dc67922f7
+      internalID: 523044708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_119
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 270
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b3021423f53941abae954079386da
+      internalID: -775294548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 270
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2238672e945ec49a934ef0f8bd9cad
+      internalID: 951161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_121
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 270
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98e0d0d61796241807477e8dabf421
+      internalID: 1219852162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 270
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c028b108d99840b99fc7527311895
+      internalID: -993643586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_123
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 270
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da093b6e25cd7d45a7173510d538104
+      internalID: -1041979182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_124
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 270
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2208d5f0f0a194e8c0f5bd419912ad
+      internalID: -663937122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_125
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 270
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc531b8b27381342b18c2989192703e
+      internalID: -576037657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_126
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 270
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f4eb2a72b4e6f4db3bd8f9b19a740b
+      internalID: 1102899229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_127
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 270
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbe90d33dfccd40a3d03ea94b430e7
+      internalID: -527087298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_128
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 270
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa501dfbed9b77146af3eeeb8bea1c79
+      internalID: -356980134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_129
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f84c3eaeb7c14594382d9c0bf1b00
+      internalID: 1117788445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580d4bb282c7a14b93c040d85f5ae35
+      internalID: 301614512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033bc1164177814b813deed21554a72
+      internalID: 1071012077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_132
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef173a48dae3841aca920cdbdf5b91
+      internalID: -2074011495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_133
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa8bd39b9c64a64bbdc8976260918a8
+      internalID: 829344968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc583a21d70324fa5bef6a2c12b7bb
+      internalID: 1752597770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_135
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a6bcbfdc3a504cb41eeec659ac638
+      internalID: 803804450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 246
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35bc7b24534744a97699cc7ca99509
+      internalID: 921233423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 244
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aaef3acf79f6e4788cba805cd7bbfc
+      internalID: 1983920121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_138
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cbbc7d5e4c6547af101a7c96c5d63
+      internalID: 693628880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c7d113cd049a41990a7c4d5929497
+      internalID: -828162967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_140
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073e1780f72a8f74aae2a927a82156a1
+      internalID: 286478751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_141
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0049e6b76d3f4d96f69cb514b30f2
+      internalID: 194985297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_142
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ac532bb7f6d94c91bec5f07263e15
+      internalID: 923828667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_143
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70321f4a5b403fa4a9d5c58f060ddbd3
+      internalID: 529453308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_144
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf98673b02604d4e8a87b87e321ec65
+      internalID: -1127383399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9dc21cf4665147ad789a515c5b38d
+      internalID: -566962498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_146
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b4bbdc0268b544bf616f02bb84fe2
+      internalID: 1648445934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_147
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72255c614de09d044b9babdf3f1ac4f0
+      internalID: 799523480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_148
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7fa0f5771e0e4dbfdd36766cec7c9
+      internalID: -121131593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792904c109d8714aac25a7efc177a41
+      internalID: -949287444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_150
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c8941133e1a941bd95b70b16e0a49
+      internalID: -315184418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_151
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 246
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1875d648c7cc5b14e85a0ecd950cdb96
+      internalID: 212086990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_152
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 248
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d15d8a876f72d429d60c9caa2d0ebd
+      internalID: 1475527893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_153
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95015c68286989142851ef60e05d491b
+      internalID: 1945763211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_154
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 256
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444745db967340049829eaab10f120e5
+      internalID: 2008684209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_155
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1925ea9e3550f4e8927e993b476ad2
+      internalID: 432606363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b8061e8e0da7458b944faa1e9e260
+      internalID: -1803227108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_157
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 250
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20810aa6cf602a749bf58456324bc9b8
+      internalID: -1288050296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_158
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb8ce0099d6ee4d8216bd848dea0b2
+      internalID: -1045045215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_159
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcdcc68d52658342a72044c3c11914f
+      internalID: -887857571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_160
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884e13be513b8e4499c1ce586772bbcc
+      internalID: 945786294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_161
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873cfa21b91bd1040b696195cb987daa
+      internalID: -1537533289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_162
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69759a6b9809f439bee0b170087327
+      internalID: 1229069894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_163
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5802fdc553ae7447bb812eee0b8f26a
+      internalID: 2023853867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_164
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 172
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0357c423dfdad7a439769f0c620e41b7
+      internalID: -333116204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_165
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 172
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba738ef7aff83b45a7770658c04f545
+      internalID: -226211581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_166
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 172
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e8271d01fe9243b101cdbf38868d6
+      internalID: -718222451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_167
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 172
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d75aea09dded8845afddf9871f30ff3
+      internalID: 794093055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_168
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 172
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6424734126d0c04cbc568e3faf0aa60
+      internalID: -1862232639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 172
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdcc71e0d539b14fba5b4ea3305e78f
+      internalID: -630789707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_170
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 172
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc597205ab7f6824c8a39a2dff6e2a99
+      internalID: 1128941696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_171
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 170
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2282c67c955547a4d5e9287b4a6ba
+      internalID: 1529911422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_172
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 170
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b363da3d8c8c479be9164c322bf89
+      internalID: 1369486943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_173
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 170
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e782933717a644c95b4bae2ff5c8b7
+      internalID: -1618584259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_174
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 182
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee47c1cb736848428971e08aa5e26f7
+      internalID: -1336622372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_175
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 182
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084198ca159de4e47a61fb535110125a
+      internalID: -2098108313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_176
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 102
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab275d12da811c2428759afda4ad6570
+      internalID: -1725023273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_177
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75065470aed9b7446a094fa1a2c3250c
+      internalID: -1582895483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_178
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 102
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afe5e69285f78468ef09e36a0a3850
+      internalID: -1595648013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_179
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f0e7cf8d56f443b6763de7d921ae3
+      internalID: 119549618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_180
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 102
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6659b2b0550379c4ea587f0025a91f9a
+      internalID: 846087183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_181
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 102
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adfe87386a3c448870987491cbbf7a
+      internalID: 1077357308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_182
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 102
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c521948f57dd4f9d3d8421c2d1da9
+      internalID: -120870045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_183
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e7c15d5b236f4e929d97c7a0e6f05
+      internalID: 1695081288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_184
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9f92fb30ce5549ad07a5c773bf8de
+      internalID: 1805480228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_185
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f03da5c77892459827cb8c7004920
+      internalID: 849230007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_186
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60dbfb1acbcd54bb1cdd4366d43204
+      internalID: 1602551905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_187
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 90
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f50b21bb99c54439c06807740e920c
+      internalID: 560027281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_188
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 116
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8611fec0ecc0b41892026822d40ead
+      internalID: -1445038861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_189
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 84
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192edf82d4ddcc14f90aaf3c5b255597
+      internalID: -1466351178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_190
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 84
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709535ece2de4c44eb442448668655b7
+      internalID: -1562796059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_191
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 90
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7f269dee2bb994b9a8ceb40cd66d9c
+      internalID: 10082947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_192
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 90
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d39a538e8840b4f8cd1230138993bf
+      internalID: -1568744148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_193
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271d08269da2654ea2843b73cacaa5f
+      internalID: 1687073946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_194
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f469c03187392ea45867462447e8c0bf
+      internalID: -708471802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_195
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a3bff5c29989439973b28f3b3b017
+      internalID: 1540402803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_196
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b128e3707ba4ed48a57280571e586b4
+      internalID: -876724015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_197
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b1266ff24f624f9b78e62774cc5fc
+      internalID: 46729100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_198
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f471550280d24498983afc04361e0
+      internalID: -1648587854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_199
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173df24582b69b499fe38704dfffda6
+      internalID: 1530423636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_200
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55086b9bae2d7c429fb1dbe1466ca4c
+      internalID: 63794762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247c97a9922f024b8513bfc517468bb
+      internalID: 1998412309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_202
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468796eac9549f4488fa673497b79a9
+      internalID: 710920794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_203
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006707585665ec8418596aa5755dad46
+      internalID: -1323598857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_204
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 12
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65398aaaaa9a34cafc61b22d508b57
+      internalID: 2064759281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_205
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ad2ebd0156f9d49ad98f824416bfdb
+      internalID: -119620193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_206
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 28
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b909717b72752a4d95f7d1135c3523d
+      internalID: -1273961856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_207
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 28
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee810580af5c5459621f167410af6f
+      internalID: 611381641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_208
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 36
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0286150bcee44ef4e812307f51c2abe6
+      internalID: -355778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_209
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 12
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c81ce8be17aa34cb39b43af658b5b6
+      internalID: 223248874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_210
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1019e925f43c4ebd7e45b86983687
+      internalID: 1521757801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_211
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 12
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0caaf6ed40d044aecc09b149270c6
+      internalID: 1319421578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_212
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 12
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229541714fe79045b5028f93aaf4095
+      internalID: 992349431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGrey_213
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 10
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1264510feaadf4c979a06cd799a3a3
+      internalID: 1172584656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites-LinkGrey_0: -317945553
+      Sprites-LinkGrey_1: -1838123555
+      Sprites-LinkGrey_10: 470918613
+      Sprites-LinkGrey_100: 160391387
+      Sprites-LinkGrey_101: 704156065
+      Sprites-LinkGrey_102: 513882363
+      Sprites-LinkGrey_103: 721326105
+      Sprites-LinkGrey_104: 655430830
+      Sprites-LinkGrey_105: 453503174
+      Sprites-LinkGrey_106: 1926838173
+      Sprites-LinkGrey_107: -1042650459
+      Sprites-LinkGrey_108: -1582264209
+      Sprites-LinkGrey_109: -961964779
+      Sprites-LinkGrey_11: 1794967633
+      Sprites-LinkGrey_110: -2051910951
+      Sprites-LinkGrey_111: -1395208920
+      Sprites-LinkGrey_112: -268052074
+      Sprites-LinkGrey_113: -2145098548
+      Sprites-LinkGrey_114: -1453054475
+      Sprites-LinkGrey_115: -923784861
+      Sprites-LinkGrey_116: -1953837954
+      Sprites-LinkGrey_117: -561157220
+      Sprites-LinkGrey_118: 523044708
+      Sprites-LinkGrey_119: -775294548
+      Sprites-LinkGrey_12: -2127991149
+      Sprites-LinkGrey_120: 951161879
+      Sprites-LinkGrey_121: 1219852162
+      Sprites-LinkGrey_122: -993643586
+      Sprites-LinkGrey_123: -1041979182
+      Sprites-LinkGrey_124: -663937122
+      Sprites-LinkGrey_125: -576037657
+      Sprites-LinkGrey_126: 1102899229
+      Sprites-LinkGrey_127: -527087298
+      Sprites-LinkGrey_128: -356980134
+      Sprites-LinkGrey_129: 1117788445
+      Sprites-LinkGrey_13: -1672513197
+      Sprites-LinkGrey_130: 301614512
+      Sprites-LinkGrey_131: 1071012077
+      Sprites-LinkGrey_132: -2074011495
+      Sprites-LinkGrey_133: 829344968
+      Sprites-LinkGrey_134: 1752597770
+      Sprites-LinkGrey_135: 803804450
+      Sprites-LinkGrey_136: 921233423
+      Sprites-LinkGrey_137: 1983920121
+      Sprites-LinkGrey_138: 693628880
+      Sprites-LinkGrey_139: -828162967
+      Sprites-LinkGrey_14: -1295342237
+      Sprites-LinkGrey_140: 286478751
+      Sprites-LinkGrey_141: 194985297
+      Sprites-LinkGrey_142: 923828667
+      Sprites-LinkGrey_143: 529453308
+      Sprites-LinkGrey_144: -1127383399
+      Sprites-LinkGrey_145: -566962498
+      Sprites-LinkGrey_146: 1648445934
+      Sprites-LinkGrey_147: 799523480
+      Sprites-LinkGrey_148: -121131593
+      Sprites-LinkGrey_149: -949287444
+      Sprites-LinkGrey_15: 479758906
+      Sprites-LinkGrey_150: -315184418
+      Sprites-LinkGrey_151: 212086990
+      Sprites-LinkGrey_152: 1475527893
+      Sprites-LinkGrey_153: 1945763211
+      Sprites-LinkGrey_154: 2008684209
+      Sprites-LinkGrey_155: 432606363
+      Sprites-LinkGrey_156: -1803227108
+      Sprites-LinkGrey_157: -1288050296
+      Sprites-LinkGrey_158: -1045045215
+      Sprites-LinkGrey_159: -887857571
+      Sprites-LinkGrey_16: -249278215
+      Sprites-LinkGrey_160: 945786294
+      Sprites-LinkGrey_161: -1537533289
+      Sprites-LinkGrey_162: 1229069894
+      Sprites-LinkGrey_163: 2023853867
+      Sprites-LinkGrey_164: -333116204
+      Sprites-LinkGrey_165: -226211581
+      Sprites-LinkGrey_166: -718222451
+      Sprites-LinkGrey_167: 794093055
+      Sprites-LinkGrey_168: -1862232639
+      Sprites-LinkGrey_169: -630789707
+      Sprites-LinkGrey_17: 1732969418
+      Sprites-LinkGrey_170: 1128941696
+      Sprites-LinkGrey_171: 1529911422
+      Sprites-LinkGrey_172: 1369486943
+      Sprites-LinkGrey_173: -1618584259
+      Sprites-LinkGrey_174: -1336622372
+      Sprites-LinkGrey_175: -2098108313
+      Sprites-LinkGrey_176: -1725023273
+      Sprites-LinkGrey_177: -1582895483
+      Sprites-LinkGrey_178: -1595648013
+      Sprites-LinkGrey_179: 119549618
+      Sprites-LinkGrey_18: -1412489853
+      Sprites-LinkGrey_180: 846087183
+      Sprites-LinkGrey_181: 1077357308
+      Sprites-LinkGrey_182: -120870045
+      Sprites-LinkGrey_183: 1695081288
+      Sprites-LinkGrey_184: 1805480228
+      Sprites-LinkGrey_185: 849230007
+      Sprites-LinkGrey_186: 1602551905
+      Sprites-LinkGrey_187: 560027281
+      Sprites-LinkGrey_188: -1445038861
+      Sprites-LinkGrey_189: -1466351178
+      Sprites-LinkGrey_19: -1274440221
+      Sprites-LinkGrey_190: -1562796059
+      Sprites-LinkGrey_191: 10082947
+      Sprites-LinkGrey_192: -1568744148
+      Sprites-LinkGrey_193: 1687073946
+      Sprites-LinkGrey_194: -708471802
+      Sprites-LinkGrey_195: 1540402803
+      Sprites-LinkGrey_196: -876724015
+      Sprites-LinkGrey_197: 46729100
+      Sprites-LinkGrey_198: -1648587854
+      Sprites-LinkGrey_199: 1530423636
+      Sprites-LinkGrey_2: 197640292
+      Sprites-LinkGrey_20: 1293541509
+      Sprites-LinkGrey_200: 63794762
+      Sprites-LinkGrey_201: 1998412309
+      Sprites-LinkGrey_202: 710920794
+      Sprites-LinkGrey_203: -1323598857
+      Sprites-LinkGrey_204: 2064759281
+      Sprites-LinkGrey_205: -119620193
+      Sprites-LinkGrey_206: -1273961856
+      Sprites-LinkGrey_207: 611381641
+      Sprites-LinkGrey_208: -355778497
+      Sprites-LinkGrey_209: 223248874
+      Sprites-LinkGrey_21: -519389459
+      Sprites-LinkGrey_210: 1521757801
+      Sprites-LinkGrey_211: 1319421578
+      Sprites-LinkGrey_212: 992349431
+      Sprites-LinkGrey_213: 1172584656
+      Sprites-LinkGrey_22: 808177503
+      Sprites-LinkGrey_23: 1526450182
+      Sprites-LinkGrey_24: -1042221631
+      Sprites-LinkGrey_25: -2093041200
+      Sprites-LinkGrey_26: 1792403000
+      Sprites-LinkGrey_27: -52085863
+      Sprites-LinkGrey_28: -1142628663
+      Sprites-LinkGrey_29: 1239670388
+      Sprites-LinkGrey_3: 296424442
+      Sprites-LinkGrey_30: -1918162204
+      Sprites-LinkGrey_31: 1609676257
+      Sprites-LinkGrey_32: 16394426
+      Sprites-LinkGrey_33: 946842282
+      Sprites-LinkGrey_34: -1061779758
+      Sprites-LinkGrey_35: 1609039709
+      Sprites-LinkGrey_36: -29054172
+      Sprites-LinkGrey_37: 1770386361
+      Sprites-LinkGrey_38: 915635095
+      Sprites-LinkGrey_39: 1033319860
+      Sprites-LinkGrey_4: 727724069
+      Sprites-LinkGrey_40: 107674916
+      Sprites-LinkGrey_41: -1779337790
+      Sprites-LinkGrey_42: -369958300
+      Sprites-LinkGrey_43: -332899430
+      Sprites-LinkGrey_44: 328432310
+      Sprites-LinkGrey_45: -1678823207
+      Sprites-LinkGrey_46: -1737916172
+      Sprites-LinkGrey_47: -786008036
+      Sprites-LinkGrey_48: 399578461
+      Sprites-LinkGrey_49: 560356399
+      Sprites-LinkGrey_5: -796990545
+      Sprites-LinkGrey_50: -724709232
+      Sprites-LinkGrey_51: 1873696218
+      Sprites-LinkGrey_52: 16922569
+      Sprites-LinkGrey_53: -774903593
+      Sprites-LinkGrey_54: 1610864787
+      Sprites-LinkGrey_55: -998629087
+      Sprites-LinkGrey_56: -1159918698
+      Sprites-LinkGrey_57: -906727640
+      Sprites-LinkGrey_58: 919893139
+      Sprites-LinkGrey_59: -1564535173
+      Sprites-LinkGrey_6: 564242013
+      Sprites-LinkGrey_60: 1134069308
+      Sprites-LinkGrey_61: 2025523981
+      Sprites-LinkGrey_62: 1213502990
+      Sprites-LinkGrey_63: 1467168715
+      Sprites-LinkGrey_64: -2011948053
+      Sprites-LinkGrey_65: 1382247212
+      Sprites-LinkGrey_66: 2076017384
+      Sprites-LinkGrey_67: 1856284649
+      Sprites-LinkGrey_68: -1887567458
+      Sprites-LinkGrey_69: 100110679
+      Sprites-LinkGrey_7: -997758295
+      Sprites-LinkGrey_70: -1403876922
+      Sprites-LinkGrey_71: -978806922
+      Sprites-LinkGrey_72: 1978289022
+      Sprites-LinkGrey_73: -914949143
+      Sprites-LinkGrey_74: 740217457
+      Sprites-LinkGrey_75: -1337695960
+      Sprites-LinkGrey_76: -1389460028
+      Sprites-LinkGrey_77: -796296845
+      Sprites-LinkGrey_78: 353760147
+      Sprites-LinkGrey_79: 1829820695
+      Sprites-LinkGrey_8: 1104283158
+      Sprites-LinkGrey_80: 2059136915
+      Sprites-LinkGrey_81: 1363701787
+      Sprites-LinkGrey_82: 1361969040
+      Sprites-LinkGrey_83: 1057480447
+      Sprites-LinkGrey_84: -27870042
+      Sprites-LinkGrey_85: 943513799
+      Sprites-LinkGrey_86: 944621729
+      Sprites-LinkGrey_87: 502444381
+      Sprites-LinkGrey_88: 166938148
+      Sprites-LinkGrey_89: 1459561409
+      Sprites-LinkGrey_9: -52750380
+      Sprites-LinkGrey_90: -2060363519
+      Sprites-LinkGrey_91: 189292188
+      Sprites-LinkGrey_92: 145420590
+      Sprites-LinkGrey_93: -161161059
+      Sprites-LinkGrey_94: -557249959
+      Sprites-LinkGrey_95: -1674418261
+      Sprites-LinkGrey_96: 1146583476
+      Sprites-LinkGrey_97: 1941427662
+      Sprites-LinkGrey_98: 105444959
+      Sprites-LinkGrey_99: 882813104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
