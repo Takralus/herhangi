@@ -15,15 +15,28 @@ public class HealthBar : MonoBehaviour
 
     void Start()
     {
-        _healthPerLife = _maxHealth / _maxLives; 
-        _currentLives = _maxLives;
+        _healthPerLife = _maxHealth / _maxLives;
+
+        if (PlayerPrefs.HasKey("CurrentLives"))
+        {
+            _currentLives = PlayerPrefs.GetInt("CurrentLives");
+        }
+        else
+        {
+            _currentLives = _maxLives;
+        }
+
         UpdateHealthBar();
     }
 
     public void UpdateHealth(int livesLost)
     {
         _currentLives -= livesLost;
-        _currentLives = Mathf.Clamp(_currentLives, 0, _maxLives); 
+        _currentLives = Mathf.Clamp(_currentLives, 0, _maxLives);
+
+        PlayerPrefs.SetInt("CurrentLives", _currentLives);
+        PlayerPrefs.Save();
+
         UpdateHealthBar();
     }
 

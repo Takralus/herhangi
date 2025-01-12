@@ -6,7 +6,9 @@ public class Baslangic : MonoBehaviour
 {
     public void Basla()
     {
-        SceneManager.LoadSceneAsync(4);
+        PlayerPrefs.DeleteKey("ArrowCount");
+        PlayerPrefs.DeleteKey("CurrentLives");
+        SceneManager.LoadSceneAsync(4);        
     }
     public void Ayarlar()
     {

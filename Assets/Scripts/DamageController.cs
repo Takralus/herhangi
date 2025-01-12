@@ -24,7 +24,6 @@ public class DamageController : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("Player has died!");
         Destroy(gameObject);
         SceneManager.LoadSceneAsync(15);
     }
